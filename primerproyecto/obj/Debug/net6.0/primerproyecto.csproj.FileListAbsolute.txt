@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\bin\Debug\net6.0\primerproyecto.exe
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\bin\Debug\net6.0\primerproyecto.deps.json
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\bin\Debug\net6.0\primerproyecto.runtimeconfig.json
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\bin\Debug\net6.0\primerproyecto.dll
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\bin\Debug\net6.0\primerproyecto.pdb
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.dll
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\refint\primerproyecto.dll
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.pdb
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\primerproyecto.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\Primersemestre\Pensamientocomputacional\Seccion17\carnet1044424\primerproyecto\obj\Debug\net6.0\ref\primerproyecto.dll
