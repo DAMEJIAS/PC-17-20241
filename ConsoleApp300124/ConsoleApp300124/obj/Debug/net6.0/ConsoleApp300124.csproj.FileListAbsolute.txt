@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\bin\Debug\net6.0\ConsoleApp300124.exe
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\bin\Debug\net6.0\ConsoleApp300124.deps.json
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\bin\Debug\net6.0\ConsoleApp300124.runtimeconfig.json
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\bin\Debug\net6.0\ConsoleApp300124.dll
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\bin\Debug\net6.0\ConsoleApp300124.pdb
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.dll
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\refint\ConsoleApp300124.dll
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.pdb
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ConsoleApp300124.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\ConsoleApp300124\ConsoleApp300124\obj\Debug\net6.0\ref\ConsoleApp300124.dll
