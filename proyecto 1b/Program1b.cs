@@ -1,4 +1,4 @@
-﻿/*
+/*
 
 Proyecto 1-b
 
@@ -58,28 +58,30 @@ namespace Proyecto1_BANCOELMAMALON
             Nombre = Console.ReadLine();
 
             // INGRESO DE DPI
+            // INGRESO DE DPI
             do
             {
-                Console.WriteLine("Ingrese Su DPI (5 digitos):");
+                Console.WriteLine("Ingrese Su DPI (5 dígitos):");
                 DPI = int.Parse(Console.ReadLine());
-                if (DPI <= 10000)
+                if (DPI < 10000 || DPI > 99999) // VERIFICACIÓN DE LA CANTIDAD DE DÍGITOS
                 {
-                    Console.WriteLine("DPI NO VALIDO");
+                    Console.WriteLine("DPI NO VÁLIDO. Debe tener 5 dígitos.");
                 }
-            } while (DPI <= 10000); // VERIFICAION DE LA CANTIDAD DE DIGITOS
+            } while (DPI < 10000 || DPI > 99999);
             Console.WriteLine("");
 
-            // INGRESO DE TELEFONO
+            // INGRESO DE NÚMERO TELEFÓNICO
             do
             {
-                Console.WriteLine("Ingrese Su Numero Telefonico (8 digitos)");
+                Console.WriteLine("Ingrese Su Número Telefónico (8 dígitos):");
                 NumeroTelefonico = int.Parse(Console.ReadLine());
-                if (NumeroTelefonico <= 10000) //VERIFICACION DE LA CANTIDAD DE DIGITOS
+                if (NumeroTelefonico < 10000000 || NumeroTelefonico > 99999999) // VERIFICACIÓN DE LA CANTIDAD DE DÍGITOS
                 {
-                    Console.WriteLine("Numero de Telefono no Valido");
+                    Console.WriteLine("Número de Teléfono no Válido. Debe tener 8 dígitos.");
                 }
-            } while (NumeroTelefonico <= 10000);
+            } while (NumeroTelefonico < 10000000 || NumeroTelefonico > 99999999);
             Console.WriteLine("");
+
 
             // INGRESO DE LA DIRECCION
             Console.WriteLine("Ingrese Su Direccion");
@@ -134,10 +136,17 @@ namespace Proyecto1_BANCOELMAMALON
                         Console.WriteLine("Creado por:");
                         Console.WriteLine("G.A. - H.C. - D.M.");
                         Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░");
-Console.WriteLine("░█▀▀░█▀█░█▀░▀░█░░▀░▀█▀░█▀█░");
-Console.WriteLine("░█▀░░█▀█░█░░█░█░░█░░█░░█░█░");
-Console.WriteLine("░▀░░░▀░▀░▀▀░▀░▀▀░▀░░▀░░▀▀▀░");
-Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+                        Console.WriteLine("░█▀▀░█▀█░█▀░▀░█░░▀░▀█▀░█▀█░");
+                        Console.WriteLine("░█▀░░█▀█░█░░█░█░░█░░█░░█░█░");
+                        Console.WriteLine("░▀░░░▀░▀░▀▀░▀░▀▀░▀░░▀░░▀▀▀░");
+                        Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+
+                        Console.ReadKey();
+
+                        Console.WriteLine("──────▄▀▄─────▄▀▄");
+                        Console.WriteLine("─────▄█░░▀▀▀▀▀░░█▄");
+                        Console.WriteLine("─▄▄──█░░░░░░░░░░░█──▄▄");
+                        Console.WriteLine("█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█");
                         Console.ReadKey();
                         Environment.Exit(0);
                         break;
