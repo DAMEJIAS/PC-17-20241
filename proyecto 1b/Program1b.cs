@@ -132,7 +132,12 @@ namespace Proyecto1_BANCOELMAMALON
                     case 6:
                         Console.WriteLine("GRACIAS POR SU PREFERENCIA!");
                         Console.WriteLine("Creado por:");
-                        Console.WriteLine("G.A. - H.C. - D.M.")
+                        Console.WriteLine("G.A. - H.C. - D.M.");
+                        Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+Console.WriteLine("░█▀▀░█▀█░█▀░▀░█░░▀░▀█▀░█▀█░");
+Console.WriteLine("░█▀░░█▀█░█░░█░█░░█░░█░░█░█░");
+Console.WriteLine("░▀░░░▀░▀░▀▀░▀░▀▀░▀░░▀░░▀▀▀░");
+Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░");
                         Console.ReadKey();
                         Environment.Exit(0);
                         break;
